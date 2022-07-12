@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="helloText">Hello!</string>
+    <string name="textNumber">Hello</string>
+    <string name="rollDice">Roll</string>
+    <string name="rollDiceRules">
+        To pass is to roll a 7 or 11 on the come out roll.\n
+        To crap is to roll a 2, 3, or 12 on the come out roll. \n
+        The point is any value between 4 and 10 rolled on the come out. \n
+        To seven out is to roll a seven before rolling the point.
+    </string>
+    <string name="playerName">Enter Your Name</string>
 </resources>
